@@ -1,6 +1,5 @@
-# Kraeuterkiste - Frontend
+# PlantCare - Frontend
 
-This is the Frontend to our "Kraeuterkiste" project. <br>
 It enables you to access and control the functionality supplied by the backend and Raspberry Pi server.
 
 ## Available Scripts
