@@ -26,4 +26,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - Laura Yawira Lewinski
 - Ralf Jackels
 
-
+## Project impressions | Project Structure
+![Image](./src/images/projectstructure.JPG?raw=true)
