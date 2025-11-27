@@ -16,7 +16,7 @@
     "react-image-file-resizer": "^0.2.0",
     "react-light-calendar": "^1.0.3",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.1.1",
+    "react-scripts": "5.0.1",
     "react-select": "^3.0.4",
     "react-timekeeper": "^1.1.0"
   },
